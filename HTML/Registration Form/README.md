@@ -1,5 +1,5 @@
 ## About
 
-## License
+# License
 
-## Acknowledgements
+# Acknowledgements
